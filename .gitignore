@@ -65,3 +65,6 @@ credentials.csv
 
 # gcp credential
 hrbot-ce853-07c0e000f9f7.json
+
+# Serverless directories
+.serverless
