@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# aws credential
+credentials.csv
+
+# gcp credential
+hrbot-ce853-07c0e000f9f7.json
