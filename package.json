@@ -1,0 +1,28 @@
+{
+  "name": "nodejschatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-param-store": "^2.1.0",
+    "aws-sdk": "^2.377.0",
+    "google-spreadsheet": "^2.0.6",
+    "randomatic": "^3.1.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.31.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufsiregar44/nodejschatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufsiregar44/nodejschatbot/issues"
+  },
+  "homepage": "https://github.com/yusufsiregar44/nodejschatbot#readme"
+}
